@@ -1,19 +1,19 @@
 # DATA PRIVACY SECTORAL CODE OF CONDUCT: 
 TRANSPORT AND LOGISTICS
 
-# **Title.**
+# **I. Title.**
 
 This shall be known and cited as the Data Privacy Sectoral Code (“DPSC”, “Sectoral Code”) for the Transport and Logistics (“Sector”) under the Data Privacy Council (“DP Council”) formed by the National Privacy Commission (“NPC”) as a mechanism for collaboration and knowledge-sharing among its members as well as with the members of other DP Sectoral Councils, with the goal of continuously strengthening sectoral compliance, and developing and supporting programs for the sector.
 
-# **Purposes of the Code.**
+# **II. Purposes of the Code.**
 
 In line with the NPC’s vision to uphold the public’s right to privacy and data protection, this Sectoral Code sets out how the Sector will provide guidance to its members in their practice of leading data privacy initiatives and protecting personal data in their respective companies and in sharing best practices within the Sector and the bigger community of data privacy practitioners.
 
-# **Ownership of the Code.**
+# **III. Ownership of the Code.**
 
 This Sectoral Code shall be owned and maintained by the Transport and Logistics Sector, and any change thereof shall be facilitated by the Sectoral Members through its officers and shall follow the same approval process of the Sectoral Code by the National Privacy Commission set forth in this Sectoral Code.
 
-# **Scope of the Code.**
+# **IV. Scope of the Code.**
 
 The Sectoral Code covers all Personal Information Controllers (“PICs”) and Personal Information Processors (“PIPs”) as defined in the Data Privacy Act of 2012, which have multiple industries and are often large and may have international presence. These companies may have stakes in many diverse and independent businesses which operate separately.
 
@@ -23,19 +23,19 @@ All PICs and PIPs are required to identify their Sector during registration with
 - All personal data processed by or for member organizations of the Group, regardless of the medium in which it is held (e.g., physical documents, digital files, databases) or the location of processing (e.g., on-premises servers, cloud-based platforms, mobile devices).
 - The DPA's provisions, including its extraterritorial application.
 
-# **Vision.**
+# **V. Vision.**
 
 To uphold the highest standards of data privacy in the Transport and Logistics sector.
 
-# **Mission.**
+# **VI. Mission.**
 
 To provide guidance to its members in their practice of leading data privacy initiatives and protecting personal data, and in sharing best practices within the Sector and the bigger community of data privacy practitioners.
 
-# **Structure of the Sector.**
+# **VII. Structure of the Sector.**
 
 The Sectoral Council structure will have three (3) Sectoral Officers: Representative, Vice-Representative, and Secretary.
 
-# **Membership in the Sector.**
+# **VIII. Membership in the Sector.**
 
 This section discusses who can participate in the sector. This will also cover the members’ rights, privileges, and responsibilities. It also includes frequency of sector meetings and documents needed to be maintained by each member.
 
@@ -61,23 +61,23 @@ Registered organizations in the NPCRS will be required to become a member in the
 ## Section 4. Benefits of membership
 
 Members of the Sector will have the following benefits:
-• Keeping abreast with updates from the National Privacy Commission through the sectoral officers;
-• Active participation in lobbying to the Commission a proposal to issue Circulars and Advisories affecting the rights of data subjects, or their amendments;
-• Opportunities to network with other sectoral members; and
-• Knowledge sharing of company’s (or agency’s) best data privacy practices with other sectoral members.
+- Keeping abreast with updates from the National Privacy Commission through the sectoral officers;
+- Active participation in lobbying to the Commission a proposal to issue Circulars and Advisories affecting the rights of data subjects, or their amendments;
+- Opportunities to network with other sectoral members; and
+- Knowledge sharing of company’s (or agency’s) best data privacy practices with other sectoral members.
 
 ## Section 5. Conduct of members.
 
 In his/her dealing, a sector member is expected to:
-• Be respectful and observe proper decorum when interacting with other members;
-• Be compliant with all privacy and data protection laws and regulations;
-• Act in a manner that is in the best interest of the sector and its members including respect for privacy and personal information;
-• Use every opportunity to help in advancing the welfare of sector through individual contribution, team or functional leadership in the sector;
-• Make appropriate use of knowledge or information resulting from sectoral membership;
-• Protect the intellectual property of the sector or any information shared by co-members during the sectoral events and ensure its use in an approved manner; and
-• Accept and abide by the Sectoral Code and assist co-members who may need assistance including escalating such request for assistance to the Sectoral officers.
+- Be respectful and observe proper decorum when interacting with other members;
+- Be compliant with all privacy and data protection laws and regulations;
+- Act in a manner that is in the best interest of the sector and its members including respect for privacy and personal information;
+- Use every opportunity to help in advancing the welfare of sector through individual contribution, team or functional leadership in the sector;
+- Make appropriate use of knowledge or information resulting from sectoral membership;
+- Protect the intellectual property of the sector or any information shared by co-members during the sectoral events and ensure its use in an approved manner; and
+- Accept and abide by the Sectoral Code and assist co-members who may need assistance including escalating such request for assistance to the Sectoral officers.
 
-# **Officers of the Sector.**
+# **IX. Officers of the Sector.**
 
 This section discusses: (1) the composition of officers; (2) primary expectations and responsibilities; (3) role of each officer; (4) role of members in supporting and evaluating the officers.
 
@@ -119,7 +119,7 @@ The sectoral officers are responsible for the governance of the sector. They sha
 
 Any Officer may resign by delivering his or her written resignation to the sector, and such resignation shall be effective upon receipt unless it is specified to be effective at some other time or upon the happening of some other event. Any Officer may be removed by a three-fourths vote of the sector at any time and for any reason.
 
-# **Sectoral Assembly.**
+# **X. Sectoral Assembly.**
 
 ## Section 1. Sectoral Meetings.
 
@@ -133,7 +133,7 @@ Sectoral meetings may be face-to-face or by means of videoconference, whatever m
 
 At any sectoral meeting, a majority of the members shall constitute a quorum of the sector. At any sectoral meeting at which a quorum is present, the action of the sector or any matter brought before the meeting shall be decided by the vote of a majority of those present, unless a difference vote is required by law.
 
-# **Data Protection Practices.**
+# **XI. Data Protection Practices.**
 
 This section discusses the standards of data protection and personal data life cycle processes that should be followed in the specific industry of the sector. It should have a thorough discussion of the industry practices to be taken note of, especially those that vary from each industry such as the retention period and manner of deletion.
 
@@ -188,7 +188,7 @@ Implement reasonable and appropriate organizational, physical, and technical sec
 - Privacy Impact Assessments (PIAs) before implementing new projects or systems.
 - Access controls, encryption, network security, data discovery and classification, security monitoring, software and system security, mobile device security, and privacy by design and default.
 
-# **Sectoral Compliance Frameworks and References.**
+# **XII. Sectoral Compliance Frameworks and References.**
 
 This section discusses the comprehensive approach comprised of the policies, plans, processes, procedures, resources, training programs and systems used to manage the identification of and adherence to data privacy compliance obligations to which the sector must comply with.
 Examples: ISO, Quality Management System (QMS), Cybersecurity Law
@@ -217,7 +217,7 @@ This section discusses the options for achieving compliance and involves:
 - Verifying (through monitoring and audits) that individuals and businesses are meeting their regulatory requirements; and
 - Where these requirements are not being met, adjusting the program management approach and, where appropriate, compelling compliance through enforcement.
 
-# **Accountability.**
+# **XII. Accountability.**
 
 This section discusses the processes that the sector and officers may take to ensure that the sector has an efficient management and governance system of its members. This also includes the composition of the group that may conduct an audit of the sector’s activities and programs. This includes:
 
@@ -228,7 +228,7 @@ This section discusses the processes that the sector and officers may take to en
 - Establishment of a Data Breach Response Team (DBRT) with defined roles and responsibilities for managing data breaches.
 - Regular internal audits and assessments of data processing activities.
 
-# **Miscellaneous Provisions.**
+# **XIV. Miscellaneous Provisions.**
 
 ## Section 1. Promulgation and Effectivity of Code.
 
