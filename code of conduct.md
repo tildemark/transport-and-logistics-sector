@@ -34,6 +34,7 @@ To provide guidance to its members in their practice of leading data privacy ini
 # **VII. Structure of the Sector.**
 
 The Sectoral Council structure will have three (3) Sectoral Officers: Representative, Vice-Representative, and Secretary.
+![organizational chart](img/structure.jpg)
 
 # **VIII. Membership in the Sector.**
 
